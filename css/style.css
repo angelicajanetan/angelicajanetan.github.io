@@ -32,7 +32,7 @@ h1,h2,h3,h4,h5 {
 }
 
 h1 {
-  color: #ffffff;
+  color: #ffd799;
   font-size: 62px;
   line-height: 72px;
 }
@@ -353,7 +353,7 @@ p {
 footer {
   padding-top: 80px;
   padding-bottom: 50px;
-  background: url('../images/footer-bg.jpg')50% 0 repeat-y fixed;
+  background: url('../images/new-foot.png')50% 0 repeat-y fixed;
   -webkit-background-size: cover;
   background-size: cover;
   background-position: center center;;
